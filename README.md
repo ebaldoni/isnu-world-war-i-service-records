@@ -1,5 +1,5 @@
 # ISNU World War I Service Records
-This repository contains data related to the [World War I Illinois State University Service Records](https://cdm15990.contentdm.oclc.org/digital/collection/WWI_records/search) digital collection. 
+This repository contains data related to the [World War I Illinois State Normal University Service Records](https://cdm15990.contentdm.oclc.org/digital/collection/WWI_records/search) digital collection. 
 
 ## Raw Data
 `raw-collection-metadata.csv` contains the raw, page-level, unprocessed metadata exported from the digital collection, including all transcripts (see the **Transcript** column).
