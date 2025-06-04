@@ -7,7 +7,7 @@ This repository contains data related to the [World War I Illinois State Normal 
 ## ArcGIS Data files
 These are the data files used to create mapping visualizations in ArcGIS. They were derived from the raw colleciton metadata in `raw-collection-metadata.csv` and restructured (using OpenRefine) to create a dataset listing one-location-per-row. Because many individuals described by the collection traveled to multiple places, there may be multiple rows per person. These data files were used to create the visualizations in the [Over There](https://storymaps.arcgis.com/collections/c6c1bc19ebdf41548f9fd8662c1ff1e0) StoryMaps exhibit.
 
-* `wwi_all.csv` is the comprehensive, location-level dataset listing all visits to locations by ISNU affiliates
+* `WWI_all.csv` is the comprehensive, location-level dataset listing all visits to locations by ISNU affiliates
 * `battles.csv` is limited to locations of battles associated with ISNU affiliates
 * `gold-star.csv` is limited to locations of fatalities
 * `influenza.csv` is limited to locations of influenza hospitalizations
