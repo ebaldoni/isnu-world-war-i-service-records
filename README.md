@@ -5,7 +5,7 @@ This repository contains data related to the [World War I Illinois State Normal 
 `raw-collection-metadata.csv` contains the raw, page-level, unprocessed metadata exported from the digital collection, including all transcripts (see the **Transcript** column).
 
 ## ArcGIS Data files
-These are the data files used to create mapping visualizations in ArcGIS. They were derived from the raw colleciton metadata in raw.collection.metadata.csv and restructured (using OpenRefine) to create a dataset listing one-location-per-row. Because many individuals described by the collection traveled to multiple places, there may be multiple rows per person. These data files were used to create the visualizations in the [Over There](https://storymaps.arcgis.com/collections/c6c1bc19ebdf41548f9fd8662c1ff1e0) StoryMaps exhibit.
+These are the data files used to create mapping visualizations in ArcGIS. They were derived from the raw colleciton metadata in raw-collection-metadata.csv and restructured (using OpenRefine) to create a dataset listing one-location-per-row. Because many individuals described by the collection traveled to multiple places, there may be multiple rows per person. These data files were used to create the visualizations in the [Over There](https://storymaps.arcgis.com/collections/c6c1bc19ebdf41548f9fd8662c1ff1e0) StoryMaps exhibit.
 
 * `wwi_all.csv` is the comprehensive, location-level dataset listing all visits to locations by ISNU affiliates
 * `battles.csv` is limited to locations of battles associated with ISNU affiliates
